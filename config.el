@@ -104,3 +104,5 @@
 
 ;; Miscellaneous
 (setq initial-buffer-choice nil)
+
+(setq org-latex-compiler "pdflatex")
